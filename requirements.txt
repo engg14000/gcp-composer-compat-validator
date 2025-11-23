@@ -1,0 +1,7 @@
+apache-airflow==2.4.3+composer
+gcloud-aio-auth==4.2.1
+cryptography==38.0.4
+cloud-sql-python-connector[pytds]==1.2.2
+google-api-python-client
+google-auth
+hvac
